@@ -1,3 +1,0 @@
-# Ardra
-
-Yelp Review
